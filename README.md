@@ -26,10 +26,10 @@
   <p class="head">Education</p>
   <ul>
 
-      <li>Vidhya Niketan (schooling)</li>
-    </a>
-    <!--Link-->
-    <li>Vivekananda Global University(B-tech0</li>
+    Vidhya Niketan (schooling)
+    
+    
+    Vivekananda Global University(B-tech)
   </ul>
   <p class="head">Summary</p>
   <ul>
